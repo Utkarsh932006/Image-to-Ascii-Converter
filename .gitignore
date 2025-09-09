@@ -1,0 +1,12 @@
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Default output directory
+output/
+
+# Lock file (optional, but good to ignore for cross-platform compatibility)
+uv.lock
