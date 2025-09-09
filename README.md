@@ -16,7 +16,7 @@ A Python command-line tool to convert images from local files or URLs into ASCII
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/image-to-ascii.git
+    git clone https://github.com/Utkarsh932006/Image-to-Ascii-Converter.git
     cd image-to-ascii
     ```
 
