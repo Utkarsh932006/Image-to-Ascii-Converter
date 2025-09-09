@@ -2,8 +2,6 @@
 
 A Python command-line tool to convert images from local files or URLs into ASCII art.
 
-![Example ASCII Art](https://i.imgur.com/2v3B3aP.png)
-
 ## Features
 
 - Convert images from local file paths.
@@ -31,6 +29,10 @@ A Python command-line tool to convert images from local files or URLs into ASCII
     ```bash
     pip install .
     ```
+    or
+    '''bash
+    uv sync --all-packages
+    '''
 
 ## Usage
 
